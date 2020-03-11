@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/pacts/*
+/logs/*
 /.pnp
 .pnp.js
 
